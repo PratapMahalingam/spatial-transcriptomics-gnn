@@ -1,0 +1,6 @@
+data/
+__pycache__/
+.pytest_cache/
+*.part
+*.h5
+results_synthetic/
